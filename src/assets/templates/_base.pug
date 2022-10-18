@@ -12,8 +12,8 @@ html(lang='ja')
     title #{ meta.title }
     link(rel='stylesheet', href='/assets/styles/style.scss')
   body
-    include /assets/pugs/modules/_header
+    include /assets/templates/modules/_header
     main
       block body
-    include /assets/pugs/modules/_footer
+    include /assets/templates/modules/_footer
     script(type='module', src='/assets/scripts/main.ts')
