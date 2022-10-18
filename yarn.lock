@@ -621,6 +621,11 @@
     "@typescript-eslint/types" "5.40.1"
     eslint-visitor-keys "^3.3.0"
 
+"@unocss/reset@^0.45.30":
+  version "0.45.30"
+  resolved "https://registry.yarnpkg.com/@unocss/reset/-/reset-0.45.30.tgz#71492bb052e4fbb3815ca6887b96d08313ccd56c"
+  integrity sha512-m6+M3E2cTPhX+2aKocRfDqQt7ebEtjJHH8sVYpX8xJoN0vOqjSNmUYc6AIkwUYljx4QbEC3thcQSbqel82RbXQ==
+
 "@vitejs/plugin-react@^2.0.0":
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/@vitejs/plugin-react/-/plugin-react-2.1.0.tgz#4c99df15e71d2630601bd3018093bdc787d40e55"
