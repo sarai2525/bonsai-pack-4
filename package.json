@@ -1,8 +1,8 @@
 {
-  "name": "vite-static-boilerplate-01",
+  "name": "bonsai-pack-4",
   "private": true,
-  "version": "0.0.0",
-  "description": "vite-static-boilerplate-01",
+  "version": "1.0.1",
+  "description": "vite-static-boilerplate",
   "author": "macropygia",
   "license": "Unlicense",
   "type": "module",
