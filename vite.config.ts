@@ -3,7 +3,7 @@ import path from 'path'
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 import middleware from '@macropygia/vite-plugin-connect-middleware'
-import input from '@macropygia/vite-plugin-glob-input'
+import inputPlugin from '@macropygia/vite-plugin-glob-input'
 import imagemin from '@macropygia/vite-plugin-imagemin-cache'
 import pug from '@macropygia/vite-plugin-pug-static'
 
@@ -47,7 +47,7 @@ export default defineConfig({
         },
       },
     }),
-    input({
+    inputPlugin({
       patterns: ['src/**/[^_]*.pug', 'src/html/**/*.html'],
       options: {
         ignore: ['src/exclude/**/*.pug'],
