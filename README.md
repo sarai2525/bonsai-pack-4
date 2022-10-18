@@ -1,5 +1,48 @@
 # Pug/SCSS/TS/React/Linter/Formatter/Hooks
 
+## Assage
+
+### install
+
+```.bash
+# install modules
+$ yarn
+$ yarn install
+```
+
+### dev
+
+```.bash
+# develop your website
+$ yarn dev
+```
+
+### build
+
+```.bash
+# build your website
+$ yarn build
+```
+
+## Structure
+
+### assets
+
+- script: TypeScript files
+- styles: Scss files
+- pug: partials
+- react: react
+
+### public
+
+meta files
+
+### Other directories
+
+To be used for a pages in the website
+
+## node modules
+
 - Vite
     - vite
     - @vitejs/plugin-react
