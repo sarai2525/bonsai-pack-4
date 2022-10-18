@@ -621,6 +621,11 @@
     "@typescript-eslint/types" "5.40.1"
     eslint-visitor-keys "^3.3.0"
 
+"@unocss/reset@^0.45.30":
+  version "0.45.30"
+  resolved "https://registry.yarnpkg.com/@unocss/reset/-/reset-0.45.30.tgz#71492bb052e4fbb3815ca6887b96d08313ccd56c"
+  integrity sha512-m6+M3E2cTPhX+2aKocRfDqQt7ebEtjJHH8sVYpX8xJoN0vOqjSNmUYc6AIkwUYljx4QbEC3thcQSbqel82RbXQ==
+
 "@vitejs/plugin-react@^2.0.0":
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/@vitejs/plugin-react/-/plugin-react-2.1.0.tgz#4c99df15e71d2630601bd3018093bdc787d40e55"
@@ -3314,6 +3319,11 @@ minimist@^1.2.0, minimist@^1.2.6:
   version "1.2.7"
   resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.7.tgz#daa1c4d91f507390437c6a8bc01078e7000c4d18"
   integrity sha512-bzfL1YUZsP41gmu/qjrEk0Q6i2ix/cVeAhbCbqH9u3zYutS1cLg00qhrD0M2MVdCcx4Sc0UpP2eBWo9rotpq6g==
+
+modern-normalize@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/modern-normalize/-/modern-normalize-1.1.0.tgz#da8e80140d9221426bd4f725c6e11283d34f90b7"
+  integrity sha512-2lMlY1Yc1+CUy0gw4H95uNN7vjbpoED7NNRSBHE25nWfLBdmMzFCsPshlzbxHz+gYMcBEUN8V4pU16prcdPSgA==
 
 mozjpeg@^8.0.0:
   version "8.0.0"
